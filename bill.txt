@@ -1,0 +1,28 @@
+Bill Number 54
+Phone Number: 1234567890
+Month: 6
+First Name: a
+Last Name: b
+Charge: 386
+
+Bill Number 123
+Phone Number: 123
+Month: 12
+First Name: q
+Last Name: s
+Charge: 420
+
+Bill Number 123
+Phone Number: 123
+Month: 123
+First Name: q
+Last Name: w
+Charge: 420
+
+Bill Number 123
+Phone Number: 123
+Month: 123
+First Name: q
+Last Name: ws
+Charge: 630
+
